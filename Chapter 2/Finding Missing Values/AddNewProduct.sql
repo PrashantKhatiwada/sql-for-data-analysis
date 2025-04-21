@@ -1,4 +1,4 @@
-INSERT INTO Product (
+INSERT INTO Product(
     ProductID,
     ProductCode,
     ProductName,
@@ -7,7 +7,7 @@ INSERT INTO Product (
     Price,
     Status
   )
-VALUES (
+Values(
     17,
     'MWORG64',
     " ",

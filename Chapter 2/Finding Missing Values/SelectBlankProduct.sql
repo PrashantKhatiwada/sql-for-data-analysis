@@ -1,3 +1,3 @@
-SELECT ProductCode
+SELECT *
 FROM Product
 WHERE ProductName =' ';

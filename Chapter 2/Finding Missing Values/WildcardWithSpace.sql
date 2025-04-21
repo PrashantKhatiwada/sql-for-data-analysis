@@ -1,3 +1,3 @@
-SELECT FirstName
-FROM Customer
-WHERE FirstName LIKE "% %";
+SELECT ProductName
+FROM Product
+WHERE ProductName LIKE '% %'

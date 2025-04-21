@@ -1,4 +1,4 @@
-SELECT CustomerID,
+Select CustomerID,
   FirstName,
   LastName
 FROM Customer

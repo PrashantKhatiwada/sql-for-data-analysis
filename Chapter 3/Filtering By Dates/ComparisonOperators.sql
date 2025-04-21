@@ -3,3 +3,4 @@ SELECT OrderID,
 FROM Orders
 WHERE Month(CreationDate) = 5
   AND Year(CreationDate) = '2016'
+ORDER BY DAY(CreationDate)
